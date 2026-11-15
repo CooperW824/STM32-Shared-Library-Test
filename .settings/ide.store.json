@@ -1,0 +1,8 @@
+{
+  "board": "NUCLEO-WL55JC2",
+  "device": "STM32WL55JCI6",
+  "toolchain": "GCC",
+  "core": "Cortex-M0+",
+  "pname": "CM0Plus",
+  "order": 0
+}

@@ -1,0 +1,8 @@
+{
+    "configurations": [
+        {
+            "name": "STM32",
+            "compileCommands": "${workspaceFolder}/boards/board_1/build/Debug/compile_commands.json"
+        }
+    ]
+}
